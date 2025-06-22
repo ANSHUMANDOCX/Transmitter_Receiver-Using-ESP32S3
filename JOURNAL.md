@@ -18,3 +18,11 @@ Also, started out with the scheamtic
 ![image](https://github.com/user-attachments/assets/089a61a7-1538-48f8-8a25-32b5308424fc)
 
 time spent- 5 hr
+
+**Day 2 - 22nd June 2025: PCB **
+
+Assigned, arranged th components on the PCB and also complted the routing. Its still a wip would need to complete a few things before finally completing it.
+
+![image](https://github.com/user-attachments/assets/f8bbc11c-ec4d-49e3-911d-2026bd4fb890)
+
+time spent- 4hr 

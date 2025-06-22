@@ -4,7 +4,7 @@
 - **Description:** Transmitter and Receiver with 10 channel and a OLED Display.
 - **Created_at:** 2025-06-10
 
-**DAY 1- 17th June 2025: Started out with the Project**
+## **DAY 1- 17th June 2025: Started out with the Project**
 
 Reasearched and planned out on what features the transmitter will have searched for the componets read the Datasheets. Since its my first time using esp32 s3 so i had to read the datasheet and look at example circuits properly. So, finally will be using these
 - ESP32 S3 Wroom 1u
@@ -19,7 +19,7 @@ Also, started out with the scheamtic
 
 time spent- 5 hr
 
-**Day 2 - 22nd June 2025: PCB **
+## **Day 2 - 22nd June 2025: PCB**
 
 Assigned, arranged th components on the PCB and also complted the routing. Its still a wip would need to complete a few things before finally completing it.
 

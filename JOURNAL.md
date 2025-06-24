@@ -36,3 +36,6 @@ The majority of the time was spent making the CAD. However its still not complet
 
 ![image](https://github.com/user-attachments/assets/d8307f23-5534-47e2-a6e7-c3d44604a6f6)
 
+Time Spent 6hr
+
+

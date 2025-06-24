@@ -26,3 +26,13 @@ Assigned, arranged th components on the PCB and also complted the routing. Its s
 ![image](https://github.com/user-attachments/assets/f8bbc11c-ec4d-49e3-911d-2026bd4fb890)
 
 time spent- 4hr 
+
+## **Day 3 - 24th June 2025 : PCB AND CAD**
+
+Completed the PCB and started and complted a major chunk of the front portion of the transmitter where all the joysticks switches and Joysticks will be connected to.
+The majority of the time was spent making the CAD. However its still not completed since i still need to make a place to hold the PCB in place.
+
+![image](https://github.com/user-attachments/assets/2098f867-ff02-40c2-87c4-d50bd16ddf60)
+
+![image](https://github.com/user-attachments/assets/d8307f23-5534-47e2-a6e7-c3d44604a6f6)
+

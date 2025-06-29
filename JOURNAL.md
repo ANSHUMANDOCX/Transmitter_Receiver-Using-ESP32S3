@@ -48,3 +48,10 @@ made the backplate for the case and the sticks for the joysticks.
 
 time spent- 4 hr
 
+## **Day 5- 29th June 2025 - RECEIVER**
+
+Started and completed the receiver p simple circuit still was very happy to see no errors 
+
+![image](https://github.com/user-attachments/assets/2f46c668-ff0d-438b-ab19-912112501710)
+
+time spent- 2hr

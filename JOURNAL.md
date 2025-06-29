@@ -38,4 +38,13 @@ The majority of the time was spent making the CAD. However its still not complet
 
 Time Spent 6hr
 
+## **Day 4 - 28th June 2025: Backplate and Sticks**
+
+made the backplate for the case and the sticks for the joysticks.
+
+![image](https://github.com/user-attachments/assets/a728b6c2-59c3-40f1-b202-e30c7e8dd2b2)
+
+![image](https://github.com/user-attachments/assets/1f9af8cc-0201-4344-a5c6-74d71f58dc3d)
+
+time spent- 4 hr
 

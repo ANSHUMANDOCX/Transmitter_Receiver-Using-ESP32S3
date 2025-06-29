@@ -53,5 +53,6 @@ time spent- 4 hr
 Started and completed the receiver p simple circuit still was very happy to see no errors 
 
 ![image](https://github.com/user-attachments/assets/2f46c668-ff0d-438b-ab19-912112501710)
+![Screenshot 2025-06-29 193455](https://github.com/user-attachments/assets/188cc9fb-2d91-4c0e-80a2-68ca26b91226)
 
 time spent- 2hr

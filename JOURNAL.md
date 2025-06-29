@@ -44,7 +44,7 @@ made the backplate for the case and the sticks for the joysticks.
 
 ![image](https://github.com/user-attachments/assets/a728b6c2-59c3-40f1-b202-e30c7e8dd2b2)
 
-![image](https://github.com/user-attachments/assets/1f9af8cc-0201-4344-a5c6-74d71f58dc3d)
+![image](https://github.com/user-attachments/assets/758139fa-a30d-403a-9d7a-7915382e9990)
 
 time spent- 4 hr
 

@@ -26,3 +26,24 @@ The code is subject to change depending on in hand testing currently its just a 
 ![image](https://github.com/user-attachments/assets/8d316921-2f9d-4971-a223-9a69cc73cf77)
 
 ![image](https://github.com/user-attachments/assets/6ef52723-bfa4-48f4-8c92-48c94e22bfbc)
+
+## BOM
+
+| Supplier             | Item                                           | Price (USD) |
+|----------------------|------------------------------------------------|-------------|
+| **LCSC**             | Joystick (x2)                                  | $0.85       |
+|                      | SSD1309 2.42" OLED                             | $11.28      |
+|                      | ESP32-S3 WROOM                                 | $7.69       |
+|                      | Potentiometer (x2)                             | $3.31       |
+|                      | Switches (x4)                                  | $2.33       |
+|                      | MIC5219 3.3V LDO                               | $1.41       |
+|                      | Pin headers                                    | $2.84       |
+|                      | Shipping                                       | $3.74       |
+|                      | **Total (LCSC)**                               | **$33.45**  |
+| **JLCPCB**           | PCB                                            | $6.00       |
+|                      | Shipping                                       | $14.00      |
+|                      | **Total (JLCPCB)**                             | **$20.00**  |
+| **Sharvi Electronics** | nRF24L01+ + Heatset Insert + Charging Module | $6.12       |
+|                      | **Total (Sharvi)**                             | **$6.12**   |
+| **Electronics Comp.** | Battery                                        | $5.38       |
+|                      | **Total (Electronics Comp.)**                 | **$5.38**   |

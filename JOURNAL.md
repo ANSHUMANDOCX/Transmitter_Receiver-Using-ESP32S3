@@ -3,6 +3,7 @@
 - **Author:** Anshuman Tripathy
 - **Description:** Transmitter and Receiver with 10 channel and a OLED Display.
 - **Created_at:** 2025-06-10
+- Total Time spent- 22hr
 
 ## **DAY 1- 17th June 2025: Started out with the Project**
 

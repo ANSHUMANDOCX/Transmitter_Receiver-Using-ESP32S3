@@ -37,13 +37,13 @@ The code is subject to change depending on in hand testing currently its just a 
 |                      | Potentiometer (x2)                             | $3.31       |
 |                      | Switches (x4)                                  | $2.33       |
 |                      | MIC5219 3.3V LDO                               | $1.41       |
-|                      | Pin headers                                    | $2.84       |
+|                      | Pin headers+passive component                  | $7.71       |
 |                      | Shipping                                       | $3.74       |
-|                      | **Total (LCSC)**                               | **$33.45**  |
+|                      | **Total (LCSC)**                               | **$38.05**  |
 | **JLCPCB**           | PCB                                            | $6.00       |
 |                      | Shipping                                       | $14.00      |
 |                      | **Total (JLCPCB)**                             | **$20.00**  |
-| **Sharvi Electronics** | nRF24L01+ + Heatset Insert + Charging Module | $6.12       |
-|                      | **Total (Sharvi)**                             | **$6.12**   |
+| **Sharvi Electronics** | nRF24L01+ + Heatset Insert + Charging Module+antenna | $9.53|
+|                      | **Total (Sharvi)**                             | **$9.53**   |
 | **Electronics Comp.** | Battery                                        | $5.38       |
 |                      | **Total (Electronics Comp.)**                 | **$5.38**   |

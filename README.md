@@ -19,13 +19,16 @@ The receiver and transmitter will be programmed using an FTDI module.
 The transmitter is designed to run for 5–6 hours on a 1000mAh LiPo battery (ideally).
 
 The code is subject to change depending on in hand testing currently its just a sample code for controlling 10 servo motor with the 10 inputs.
+# Transmitter 
 
 ![image](https://github.com/user-attachments/assets/cc0d7638-6b33-49c5-8a1e-c446c6baa4fc)
 ![Screenshot 2025-06-24 120350](https://github.com/user-attachments/assets/a4f2a7c2-9d11-44fb-b010-e9bfb4aa33e1)
+![image](https://github.com/user-attachments/assets/6ef52723-bfa4-48f4-8c92-48c94e22bfbc)
+# Receiver
+
 ![image](https://github.com/user-attachments/assets/5cb271f2-eff7-424c-91ec-af8129dca5e4)
 ![image](https://github.com/user-attachments/assets/8d316921-2f9d-4971-a223-9a69cc73cf77)
 
-![image](https://github.com/user-attachments/assets/6ef52723-bfa4-48f4-8c92-48c94e22bfbc)
 
 ## BOM
 
